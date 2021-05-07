@@ -19,7 +19,7 @@ There are a lot of applications. Here is a list of free voice (audio) recorders 
 Remark: In this list covered functionalities of free versions, but no Purchase-In/paid versions of them.
 - Voice Recorder (blue icon)
     /storage/emulated/0/vrecorder/
-- Voice Recorder (red icon)
+- Voice Recorder (dark-red icon)
    ?
 - Easy Voice Recorder
     /storage/emulated/0/EasyVoiceRecorder
@@ -27,7 +27,7 @@ Remark: In this list covered functionalities of free versions, but no Purchase-I
     - permissions to call
     - asked for phone permissions and refused to record without it (with does Voice Recorder has to have rights to be able to record from microphone? if I am not recording phone call?)
     ! to uninstall
-- Smart Recorder
+- Smart Recorder (with red dot)
     ?
 - ASR Recorder
     ?
@@ -40,6 +40,6 @@ Remark: In this list covered functionalities of free versions, but no Purchase-I
 - RecForge II
     ?
 - Hi-Q Recorder
-    /recording
+    /storage/emulated/0/recordings/
 - Voice Recorder (red icon with sliced half, haircomb)
     /storage/emulated/0/Android/Data/com.wachi.recorder/files/Music/records
