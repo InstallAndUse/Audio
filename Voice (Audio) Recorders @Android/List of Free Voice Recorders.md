@@ -43,3 +43,7 @@ Remark: In this list covered functionalities of free versions, but no Purchase-I
     /storage/emulated/0/recordings/
 - Voice Recorder (red icon with sliced half, haircomb)
     /storage/emulated/0/Android/Data/com.wachi.recorder/files/Music/records
+
+
+Books:
+- [Anton's bookshelf](https://og2k.com/books/)
